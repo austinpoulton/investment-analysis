@@ -2,9 +2,8 @@
 Python library for investment analysis and automated tradeing strategies
 
 
+Dependencies (as specified in requirements):
 
-
-Dependencies (as specified in requirements)
 Library | Version | Description
 --- | --- |  ---
 Pandas | >= 19.2 | The legandary data manipulation library
